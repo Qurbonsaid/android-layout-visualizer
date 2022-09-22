@@ -504,6 +504,6 @@ var app = app || {};
 	app.androidInit();
 
 	app.initPage();
-
+	app.resetCodeToHashDefault();
 })();
 
